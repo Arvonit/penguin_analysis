@@ -1,3 +1,3 @@
 # penguin_analysis
 
-Data analysis on the Palmer Penguin dataset
+Data analysis on the Palmer Penguins dataset
