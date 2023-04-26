@@ -1,3 +1,3 @@
-# penguin_analysis
+# SeeFood
 
-Data analysis on the Palmer Penguins dataset
+Hot dog, not hot dog classifier
